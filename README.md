@@ -1,7 +1,12 @@
 # PIFu for the Real World: A Self-supervised Framework to Reconstruct Dressed Human from Single-view Images. (SelfPIFu) <br />
-(Under Review) <br />
-Code repository for the paper: <br />
-*PIFu for the Real World: A Self-supervised Framework to Reconstruct Dressed Human from Single-view Images.* <br />
+
+Code repository for the paper:  <br />
+<div align="center">
+	<img src="https://github.com/X-zhangyang/SelfPIFu--PIFu-for-the-Real-World/blob/main/Images/title.png" alt="Editor" width="700">
+</div>
+
+Arxiv Preprint, 2022
+[[paper](https://arxiv.org/abs/2208.10769)]   [[project page (coming soon)](https://github.com/X-zhangyang/SelfPIFu--PIFu-for-the-Real-World)]
 
  
 ## Overview of our framework  <br />
@@ -44,9 +49,15 @@ Code repository for the paper: <br />
 <br />
 </div>
   
-# Citation  <br />
+## Citation  <br />
+If you  find the idea or code of this paper useful for your research, please consider citing us:
 
-If you find the idea or code of this paper useful for your research, please consider citing us: <br />
-  
-  
-  
+```bibtex
+@misc{xiong2022selfpifu,
+  author = {Xiong, Zhangyang and Du, Dong and Wu, Yushuang and Dong, Jingqi and Kang, Di and Bao, Linchao and Han, Xiaoguang},  
+  title = {PIFu for the Real World: A Self-supervised Framework to Reconstruct Dressed Human from Single-view Images},
+  publisher = {arXiv},
+  year = {2022},
+}
+
+```
