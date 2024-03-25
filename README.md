@@ -5,7 +5,7 @@ Code repository for the paper:  <br />
 	<img src="https://github.com/X-zhangyang/SelfPIFu--PIFu-for-the-Real-World/blob/main/Images/title.png" alt="Editor" width="700">
 </div>
 
-Arxiv Preprint, 2022
+CVM 2024
 [[paper](https://arxiv.org/abs/2208.10769)]   [[project page (coming soon)](https://github.com/X-zhangyang/SelfPIFu--PIFu-for-the-Real-World)]
 
  
